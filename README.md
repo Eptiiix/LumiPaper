@@ -17,7 +17,7 @@ LumiPaper-API maven dependency:
 <dependency>
     <groupId>net.luminu.paper</groupId>
     <artifactId>paper-api</artifactId>
-    <version>1.15.2-R0.1-SNAPSHOT</version>
+    <version>1.16.1-R0.1-SNAPSHOT</version>
     <scope>provided</scope>
  </dependency>
  ```
@@ -27,7 +27,7 @@ LumiPaper-API maven dependency:
 <dependency>
     <groupId>net.luminu.paper</groupId>
     <artifactId>paper</artifactId>
-    <version>1.15.2-R0.1-SNAPSHOT</version>
+    <version>1.16.1-R0.1-SNAPSHOT</version>
     <scope>provided</scope>
  </dependency>
   ```
